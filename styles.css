@@ -1,0 +1,39 @@
+body {
+  border-top: 10px solid #1098ad;
+  color: yellowgreen;
+  font-family: sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+  background-color: #333;
+  height: 800px;
+}
+
+.welcome-message {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 32px;
+}
+
+.clock {
+  font-size: 4em;
+  text-align: center;
+  margin: 200px auto;
+  color: yellow;
+}
+
+.clock span {
+  padding: 20px;
+  background: #444;
+}
+
+button {
+  margin-top: 20px;
+}
